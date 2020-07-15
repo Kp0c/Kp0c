@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently mastering Angular and learning Firebase
+
+You can reach me via email andriy.yushchenko97@gmail.com 📫
+
 <!--
 **Kp0c/Kp0c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
