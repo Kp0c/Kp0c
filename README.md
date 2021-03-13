@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently mastering Angular and learning Firebase
+🌱 I’m .NET + Angular Developer.
+Right now I'm learning Firebase and Flutter.
 
 You can reach me via email andriy.yushchenko97@gmail.com 📫
 
