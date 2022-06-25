@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 🌱 I’m .NET + Angular Developer.
-Right now I'm learning Firebase and Flutter.
 
 You can reach me via email andriy.yushchenko97@gmail.com 📫
 
